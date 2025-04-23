@@ -1,4 +1,4 @@
-![Votre Bannière](/banner_github_profile.jpg)
+![Votre Bannière](assets\banner_github_profile.png)
 
 ## 👋 Salut !
 
